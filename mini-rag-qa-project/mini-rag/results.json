@@ -1,0 +1,474 @@
+[
+    {
+        "question": "What is Personal Protective Equipment (PPE)?",
+        "response": {
+            "answer": "ring\nthey know the Standard Operating Procedures (SOPs) is also necessary.\nAs collaborative robot applications need the involvement of workers, they\nneed specific risk reduction measures based on different tasks. Mostly,\nthey have safety functions integrated into their systems that can control\nthe speed, force, momentum, and positions.\nAdequate safeguarding\nSafeguarding devices can help prevent hazards related to restricted space.\nThere are presence-sensing devices, fixed and interlocked barrier guards,\nand limiting devices that can safeguard workers from accidents. Awareness\ndevices like chain or rope barriers, alarm signals, flashlights, and horns\nshould also be implemented as per the risk level.\nPPE or Personal Protection Equipment like safety glasses, protective\nfootwear, arc glare shi",
+            "contexts": [
+                {
+                    "chunk_id": 1040,
+                    "text": "ring\nthey know the Standard Operating Procedures (SOPs) is also necessary.\nAs collaborative robot applications need the involvement of workers, they\nneed specific risk reduction measures based on different tasks. Mostly,\nthey have safety functions integrated into their systems that can control\nthe speed, force, momentum, and positions.\nAdequate safeguarding\nSafeguarding devices can help prevent hazards related to restricted space.\nThere are presence-sensing devices, fixed and interlocked barrier guards,\nand limiting devices that can safeguard workers from accidents. Awareness\ndevices like chain or rope barriers, alarm signals, flashlights, and horns\nshould also be implemented as per the risk level.\nPPE or Personal Protection Equipment like safety glasses, protective\nfootwear, arc glare shi",
+                    "doc_name": "Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf",
+                    "title": "Hokuyo USA \u2014 A Safety Guide to Industrial Robotics Hazards (Whitepaper)",
+                    "source_url": "https://hokuyo-usa.com/docs/whitepapers/Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf",
+                    "vec_score": 0.6430327892303467,
+                    "bm25_score": 10.90816512925366,
+                    "final_score": 0.8506312440171768
+                },
+                {
+                    "chunk_id": 2754,
+                    "text": "mean that the other measures can be\nomitted. It is not acceptable to merely tell an operator that they must not go near\ndangerous areas (as an alternative to guarding them).\nIt may also be necessary for the operator to use equipment such as special\ngloves, goggles, respirators, etc. The machinery designer should specify what\nsort of equipment is required. The use of personal protective equipment will not\nusually form the primary safeguarding method but will complement the measures\nshown above. There will also usually be a need for signs and marking to facilitate\nawareness of any residual risk.\n33",
+                    "doc_name": "safebk-rm002_-en-p.pdf",
+                    "title": "Rockwell \u2014 Machinery SafeBook 5",
+                    "source_url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                    "vec_score": 0.4984011948108673,
+                    "bm25_score": 17.409104135069594,
+                    "final_score": 0.5085556445208302
+                },
+                {
+                    "chunk_id": 4002,
+                    "text": "pply, by providing a level of protection after the French \u201cATmosphere EXplosible\u201d.\nagainst electric shock.\nThe Directive covers a surprisingly large range of\nequipment, potentially including equipment used on\nPressure Equipment Directive\nfixed offshore platforms, in petro-chemical plants,\nmines, flour mills and other areas where a potentially\nThe Pressure Equipment Directive (PED) 97/23/EC which explosive atmosphere may be present.\naffects equipment operating at a pressure greater than\n0.5 bar, entered into force on 29th November 1999 and is In very broad terms, there are three pre-conditions for\nmandatory from 29th May 2002.PED is generally considered the Directive to apply:\none of, if not the most complex and difficult to understand\nof the new approach directives. Many organisations, The",
+                    "doc_name": "uk-mkg-practical-guide-en-GB-A4.pdf",
+                    "title": "uk-mkg-practical-guide-en-GB-A4.pdf",
+                    "source_url": "",
+                    "vec_score": 0.5570501089096069,
+                    "bm25_score": 6.652677627167603,
+                    "final_score": 0.4606941759590098
+                },
+                {
+                    "chunk_id": 2159,
+                    "text": "afety of packaging machines \u2013 Part 4: Palletisers and depalletisers (06.97) +AC (2002)\n\u2022 IEC 61496-1: Safety of machinery \u2013 Electro-sensitive protective equipment \u2013 Part 1: General requirements and tests\n(2012) and Corrigendum 1 (2015). IEC, Geneva, Switzerland 2012/2015\n\u2022 IEC 61496-2: Safety of machinery \u2013 Electro-sensitive protective equipment \u2013 Part 2: Particular requirements for\nequipment using active opto-electronic protective devices (AOPDs) (2013). IEC, Geneva, Switzerland 2013\n\u2022 IEC 62046: Safety of machinery \u2013 Application of protective equipment to detect the presence of persons (2018).\nIEC, Geneva, Switzerland 2018\n\u2022 EN ISO 13855: Safety of machinery \u2013 Positioning of safeguards with respect to the approach speeds of parts of the\nhuman body (2010). ISO, Geneva, Switzerland 2010\n17",
+                    "doc_name": "rep0217e.pdf",
+                    "title": "IFA \u2014 Functional safety of machine controls (Application of EN ISO 13849), IFA Report 2/2017e",
+                    "source_url": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/reports-2019/report0217e/rep0217e.pdf",
+                    "vec_score": 0.5159795880317688,
+                    "bm25_score": 8.08092906391175,
+                    "final_score": 0.35395667609292497
+                },
+                {
+                    "chunk_id": 1083,
+                    "text": "troduced (e.g. powered guards can introduce trapping hazards) and to estimate whether\neach risk has been reduced to a tolerable level. Even after some iterations of the risk\nassessment/risk reduction procedure, it is likely that there will be some residual risks.\nExcept for machines built to a specific harmonised standard (C Standard) it is for the\ndesigner to judge whether the residual risk is tolerable or whether further measures need\nto be taken, and to provide information about those residual risks, in the form of warning\nlabels, instructions for use, etc. The instructions might also specify measures such as the\nneed for personal protective equipment (PPE) or special working procedures, but these are\nnot as dependable as measures implemented by the designer.\n28 29",
+                    "doc_name": "Machine-Safety-Brochure-Guide.pdf",
+                    "title": "Machine-Safety-Brochure-Guide.pdf",
+                    "source_url": "",
+                    "vec_score": 0.4792139530181885,
+                    "bm25_score": 11.600208071196786,
+                    "final_score": 0.3098912207283019
+                }
+            ],
+            "reranker_used": "hybrid"
+        }
+    },
+    {
+        "question": "What is lockout-tagout and why is it used?",
+        "response": {
+            "answer": "power up is to remove the energy from the\nsystem and to lock the system in the off state. The purpose is to allow people to\nsafely enter a machine\u2019s hazard zones.\nLockout / Tagout\nNew machines must be built with lockable energy isolating devices. The devices\napply to all types of energy, including electrical, hydraulic, pneumatic, gravity, and\nlasers. Lockout refers to applying a lock to an energy isolating device. The lock must\nonly be removed by its owner or by a supervisor under controlled conditions. When\nmultiple individuals must work on the machine, each individual must apply their locks\nto the energy isolating devices. Each lock must be identifi able to its owner.\nIn the U.S., tagout is an alternative to lockout for older machines where a lockable\ndevice has never been installed. I",
+            "contexts": [
+                {
+                    "chunk_id": 2742,
+                    "text": "power up is to remove the energy from the\nsystem and to lock the system in the off state. The purpose is to allow people to\nsafely enter a machine\u2019s hazard zones.\nLockout / Tagout\nNew machines must be built with lockable energy isolating devices. The devices\napply to all types of energy, including electrical, hydraulic, pneumatic, gravity, and\nlasers. Lockout refers to applying a lock to an energy isolating device. The lock must\nonly be removed by its owner or by a supervisor under controlled conditions. When\nmultiple individuals must work on the machine, each individual must apply their locks\nto the energy isolating devices. Each lock must be identifi able to its owner.\nIn the U.S., tagout is an alternative to lockout for older machines where a lockable\ndevice has never been installed. I",
+                    "doc_name": "safebk-rm002_-en-p.pdf",
+                    "title": "Rockwell \u2014 Machinery SafeBook 5",
+                    "source_url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                    "vec_score": 0.7172617316246033,
+                    "bm25_score": 7.964129849087229,
+                    "final_score": 0.8333995677348346
+                },
+                {
+                    "chunk_id": 1215,
+                    "text": "ure and are performed during normal produc-\ntion operations. It is not necessary to lockout/\ntagout a machine if the activity is routine, repetitive\nand integral to the production operation provided\nthat you use an alternative control method that\naffords effective protection from the machine\u2019s\nhazardous energy sources.\nSafeguarding Machinery\nThe employer is responsible for safeguarding\nmachines and should consider this need when pur-\nchasing machinery. Almost all new machinery is\nSAFEGUARDING EQUIPMENT AND PROTECTING EMPLOYEES FROM AMPUTATIONS 9",
+                    "doc_name": "osha3170.pdf",
+                    "title": "OSHA 3170 \u2014 Safeguarding Equipment and Protecting Employees from Amputations",
+                    "source_url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf",
+                    "vec_score": 0.5066707730293274,
+                    "bm25_score": 11.766414953000748,
+                    "final_score": 0.5508685644059728
+                },
+                {
+                    "chunk_id": 2743,
+                    "text": "n this case, the machine is turned off and a tag is\napplied to warn all personnel to not start the machine while the tag holder is working\non the machine. Beginning in 1990, machines that are modifi ed must be upgraded\nto include a lockable energy isolating device.\n29",
+                    "doc_name": "safebk-rm002_-en-p.pdf",
+                    "title": "Rockwell \u2014 Machinery SafeBook 5",
+                    "source_url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                    "vec_score": 0.516565203666687,
+                    "bm25_score": 9.300638168520582,
+                    "final_score": 0.4639304336087193
+                },
+                {
+                    "chunk_id": 2744,
+                    "text": "MACHINERY SAFEBOOK 5\nSafety related control systems for machinery\nAn energy isolating device is a mechanical device that physically prevents\nthe transmission or release of energy. These devices can take the form of a\ncircuit breaker, a disconnect switch, a manually operated switch, a plug/socket\ncombination or a manually operated valve. Electrical isolating devices must switch\nall ungrounded supply conductors and no pole can operate independently.\nThe purpose of lockout and tagout is to prevent the unexpected startup of the\nmachine. Unexpected startup may be the result of various causes: a failure of the\ncontrol system; an inappropriate action on a start control, sensor, contactor, or\nvalve; a restoration of power after an interruption; or some other internal or external\ninfl uences. After",
+                    "doc_name": "safebk-rm002_-en-p.pdf",
+                    "title": "Rockwell \u2014 Machinery SafeBook 5",
+                    "source_url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                    "vec_score": 0.554011344909668,
+                    "bm25_score": 7.335742720919555,
+                    "final_score": 0.4576989345204736
+                },
+                {
+                    "chunk_id": 1214,
+                    "text": "d an Lockout/tagout plays an essential role in the pre-\noverall energy control (lockout/tagout) program. vention and control of workplace amputations. In\nThis is likely to result in fewer employee amputa- terms of controlling amputation hazards, employ-\ntions; safer, more effective work methods; reduced ees are protected from hazardous machine work\nworkers\u2019 compensation costs; and increased em- activities either by: 1) effective machine safeguard-\nployee productivity and morale. ing, or 2) lockout/tagout where safeguards are ren-\ndered ineffective or do not protect employees from\nhazardous energy during servicing and mainte-\nnance operations.\nAdditionally, there are some servicing activities,\nsuch as lubricating, cleaning, releasing jams and\nmaking machine adjustments that are minor in\nnat",
+                    "doc_name": "osha3170.pdf",
+                    "title": "OSHA 3170 \u2014 Safeguarding Equipment and Protecting Employees from Amputations",
+                    "source_url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf",
+                    "vec_score": 0.5597274303436279,
+                    "bm25_score": 6.921372451765936,
+                    "final_score": 0.4517337268422471
+                }
+            ],
+            "reranker_used": "hybrid"
+        }
+    },
+    {
+        "question": "How should machine guards be designed to prevent entanglement?",
+        "response": {
+            "answer": "Providing a barrier which is synchronized with\nthe operating cycle in order to prevent entry to\nthe danger area during the hazardous part of the Pullback\nMechanism\ncycle.\nThese types of engineering controls, which Pullback\nStraps\neither prevent the start of or stop hazardous\nmotion, may be used in place of guards or as\nsupplemental control measures when guards alone\nWristbands\ndo not adequately enclose the hazard. In order for\nthese safeguarding devices to accomplish this\nrequirement, they must be properly designed and\ninstalled at a predetermined safe distance from the\nmachine\u2019s danger area. Other safeguarding devices\n(probe detection and safety edge devices) that\nmerely detect, instead of prevent, inadvertent\nTable 2. Types of Safeguarding Devices\nTypes of Machine Guards\nType Method of",
+            "contexts": [
+                {
+                    "chunk_id": 1228,
+                    "text": "Providing a barrier which is synchronized with\nthe operating cycle in order to prevent entry to\nthe danger area during the hazardous part of the Pullback\nMechanism\ncycle.\nThese types of engineering controls, which Pullback\nStraps\neither prevent the start of or stop hazardous\nmotion, may be used in place of guards or as\nsupplemental control measures when guards alone\nWristbands\ndo not adequately enclose the hazard. In order for\nthese safeguarding devices to accomplish this\nrequirement, they must be properly designed and\ninstalled at a predetermined safe distance from the\nmachine\u2019s danger area. Other safeguarding devices\n(probe detection and safety edge devices) that\nmerely detect, instead of prevent, inadvertent\nTable 2. Types of Safeguarding Devices\nTypes of Machine Guards\nType Method of",
+                    "doc_name": "osha3170.pdf",
+                    "title": "OSHA 3170 \u2014 Safeguarding Equipment and Protecting Employees from Amputations",
+                    "source_url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf",
+                    "vec_score": 0.556282639503479,
+                    "bm25_score": 18.88340937564196,
+                    "final_score": 0.7487082227333028
+                },
+                {
+                    "chunk_id": 2699,
+                    "text": "ates that one or\nmore methods of machine guarding shall be provided to protect the operator and\nother employees in the machine area from hazards such as those created by the\npoint of operation, ingoing nip points, rotating parts, fl ying chips and sparks. Guards\nshall be affi xed to the machine where possible and secured elsewhere if for any\nreason attachment to the machine is not possible. The guard shall be such that it\ndoes not offer an accident hazard in itself. It must also require a tool for removal, is\nsuch an event that the guard needs removing.\n15",
+                    "doc_name": "safebk-rm002_-en-p.pdf",
+                    "title": "Rockwell \u2014 Machinery SafeBook 5",
+                    "source_url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                    "vec_score": 0.5869590640068054,
+                    "bm25_score": 11.797598484454277,
+                    "final_score": 0.7385075868779968
+                },
+                {
+                    "chunk_id": 1222,
+                    "text": "remove them. Generally, guards are designed not Figure 11 Self-Adjusting Guard on a Radial Saw\nto obstruct the operator\u2019s view or to prevent\nemployees from doing a job.\nIn some cases, guarding may be used as an\nalternative to lockout/tagout because employees\ncan safely service or maintain machines with a\nguard in place. For example, polycarbonate and\nwire-mesh guards provide greater visibility and can Handle\nbe used to allow maintenance employees to safely\nobserve system components. In other instances,\nGuard Anti-\nemployees may safely access machine areas, with- Kickback\nout locking or tagging out, to perform maintenance Device\nwork (such as machine cleaning or oiling tasks)\nbecause the hazardous machine components\nremain effectively guarded.\nGuards must not create additional hazards such",
+                    "doc_name": "osha3170.pdf",
+                    "title": "OSHA 3170 \u2014 Safeguarding Equipment and Protecting Employees from Amputations",
+                    "source_url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf",
+                    "vec_score": 0.5329744815826416,
+                    "bm25_score": 19.206456639569456,
+                    "final_score": 0.6514809927422769
+                },
+                {
+                    "chunk_id": 1218,
+                    "text": "safeguard\nshould be designed with the machine operator in\nmachines: guards and some types of safeguarding\nmind as a guarding method that interferes with the\ndevices. Guards provide physical barriers that pre-\noperation of the machine may cause employees to\nvent access to danger areas. Safeguarding devices\noverride them. To ensure effective and safe operator\neither prevent or detect operator contact with the\nuse, guards and devices should suit the operation.\npoint of operation or stop potentially hazardous\nThe Performance Criteria for Safeguarding\nmachine motion if any part of an individual\u2019s body\n[ANSI B11.19-2003] national consensus standard\nis within the hazardous portion of the machine.\nprovides valuable guidance as the standard\nBoth types of safeguards need to be properly\naddresses the",
+                    "doc_name": "osha3170.pdf",
+                    "title": "OSHA 3170 \u2014 Safeguarding Equipment and Protecting Employees from Amputations",
+                    "source_url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf",
+                    "vec_score": 0.5173797607421875,
+                    "bm25_score": 21.86559870647593,
+                    "final_score": 0.637105369360438
+                },
+                {
+                    "chunk_id": 3551,
+                    "text": "ding entanglement points\nNOTE\n- Alfred Neud\u00f6rfer: Konstruieren sicherheitsgerechter Produkte, Springer-Verlag, Berlin u. a., ISBN\n978-3-662-62703-7 (8th edition 2020)\n30 SPECIAL INFORMATION | Guide for Safe Machinery 8007988/2024-10-21 | SICK\nSubject to change without notice",
+                    "doc_name": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "title": "SICK \u2014 Guide for Safe Machinery: Six Steps to a Safe Machine",
+                    "source_url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "vec_score": 0.5987666845321655,
+                    "bm25_score": 2.5822680499999913,
+                    "final_score": 0.5999999642372131
+                }
+            ],
+            "reranker_used": "hybrid"
+        }
+    },
+    {
+        "question": "What are common causes of industrial fires in machine shops?",
+        "response": {
+            "answer": "2 SAFE DESIGN (INHERENTLY SAFE DESIGN)\nUse in potentially explosive atmospheres\nProtection against explosions is a particularly safety-related task. People are placed at risk in the event of an\nexplosion, e.g., due to uncontrolled radiation of heat, flames, pressure waves, and flying debris, as well as due\nto harmful reaction products and the consumption of the oxygen in the ambient air necessary for breathing.\nExplosions and fires are not among the most common causes of industrial accidents. They often result, however,\nin serious injuries and death as well as major economic damage.\nWhere dust, flammable gases, or liquids are manufactured, transported, processed, or stored, a potentially explo\u2010\nsive atmosphere may be produced, i.e., a mixture of fuel and atmospheric oxygen within the limit",
+            "contexts": [
+                {
+                    "chunk_id": 3579,
+                    "text": "2 SAFE DESIGN (INHERENTLY SAFE DESIGN)\nUse in potentially explosive atmospheres\nProtection against explosions is a particularly safety-related task. People are placed at risk in the event of an\nexplosion, e.g., due to uncontrolled radiation of heat, flames, pressure waves, and flying debris, as well as due\nto harmful reaction products and the consumption of the oxygen in the ambient air necessary for breathing.\nExplosions and fires are not among the most common causes of industrial accidents. They often result, however,\nin serious injuries and death as well as major economic damage.\nWhere dust, flammable gases, or liquids are manufactured, transported, processed, or stored, a potentially explo\u2010\nsive atmosphere may be produced, i.e., a mixture of fuel and atmospheric oxygen within the limit",
+                    "doc_name": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "title": "SICK \u2014 Guide for Safe Machinery: Six Steps to a Safe Machine",
+                    "source_url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "vec_score": 0.4951398968696594,
+                    "bm25_score": 23.58026303015951,
+                    "final_score": 0.7482167718891166
+                },
+                {
+                    "chunk_id": 1194,
+                    "text": "m failure\nindustry. Approximately forty-four percent (44%) of could cause fires and explosions. Machine electri-\nall workplace amputations occurred in the manu- cal sources also pose electrical hazards that are\nfacturing sector and the rest occurred across the addressed by other OSHA standards, such as the\nconstruction, agriculture, wholesale and retail trade, electrical standards contained in Subpart S. Full\nand service industries.) These injuries result from discussion of these matters is beyond the scope of\nthe use and care of machines such as saws, press- this publication. For compliance assistance purpos-\nes, conveyors, and bending, rolling or shaping es, references and the appendices are provided on\nmachines as well as from powered and non-pow- applicable OSHA standards, additional i",
+                    "doc_name": "osha3170.pdf",
+                    "title": "OSHA 3170 \u2014 Safeguarding Equipment and Protecting Employees from Amputations",
+                    "source_url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf",
+                    "vec_score": 0.5212081670761108,
+                    "bm25_score": 14.27313248216003,
+                    "final_score": 0.7216599760499703
+                },
+                {
+                    "chunk_id": 4082,
+                    "text": "weight or bolted to\nIs there any possibility of fire or explosion the floor\nIs there a possibility of a discharge of hazardous material\nReg 21: Lighting\nReg 13: High or very low temperatures Is ambient lighting of adequate intensity\nAre there any hot/cold surfaces If not is the machine provided with adequate lighting\nReg 14: Controls for starting or making a Reg 22: Maintenance\nsignificant change in operating conditions Can safe maintenance be carried out\nIs a start control provided Are safe working procedures in place\nIs there a reset facility provided\nWill the machine restart automatically after a stoppage Reg 23: Markings\nAre flow directions marked\nReg 15: Stop controls Are rotational directions marked\nAre normal stop controls provided Are pipes and vessels marked\nDoes the machine stop",
+                    "doc_name": "uk-mkg-practical-guide-en-GB-A4.pdf",
+                    "title": "uk-mkg-practical-guide-en-GB-A4.pdf",
+                    "source_url": "",
+                    "vec_score": 0.538720965385437,
+                    "bm25_score": 8.168969951938763,
+                    "final_score": 0.7066440877706366
+                },
+                {
+                    "chunk_id": 1068,
+                    "text": ", and when?\nhazard duration of exposure\nWho interacts with the machine, when, and why? Again remember foreseeable misuse\nPossibility of\nincluding the possibility of use of a machine by untrained persons, and persons who might\navoiding or limiting\nbe present in the workplace; not just machine operators, but cleaners, security staff,\nthe probability of the\nvisitors, and members of the public.\nocurence of an\nevent that could\ncause harm\nExamples of\ntypical hazards are\nillustrated here,\nPuncturing, stabbing, Catching, entanglement, Impact Crushing\nshearing, severing, cutting drawing in, trapping though this is not an\nexhaustive list.\nA more detailed list\ncan be found in\nEN ISO 12100.\nElectrocution Discharge of dangerous Burns\nsubstances\n18 19",
+                    "doc_name": "Machine-Safety-Brochure-Guide.pdf",
+                    "title": "Machine-Safety-Brochure-Guide.pdf",
+                    "source_url": "",
+                    "vec_score": 0.5270771980285645,
+                    "bm25_score": 8.468075654237413,
+                    "final_score": 0.6450674422113564
+                },
+                {
+                    "chunk_id": 3533,
+                    "text": "on the machine.\nThis step comprises the systematic identification of foreseeable hazards, hazardous situations, and/or hazardous\nevents.\nTable 1: Example of hazards during the life cycle of a machine\nIn particular the machine manufacturer should take into \u2026 in all phases of the service life of the machine.\naccount the hazards listed below\u2026\n\u2022 Mechanical hazards \u2022 Transport, assembly, and installation\n\u2022 Electrical hazards \u2022 Commissioning\n\u2022 Thermal hazards \u2022 Setup\n\u2022 Noise hazards \u2022 Normal operation and troubleshooting\n\u2022 Vibration hazards \u2022 Maintenance and cleaning\n\u2022 Radiation hazards \u2022 Decommissioning, dismantling, and disposal\n\u2022 Hazards generated by materials and substances\n\u2022 Hazards generated by neglecting ergonomic principles dur\u2010\ning the design of machinery\n\u2022 Slipping, tripping, and falli",
+                    "doc_name": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "title": "SICK \u2014 Guide for Safe Machinery: Six Steps to a Safe Machine",
+                    "source_url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "vec_score": 0.49571120738983154,
+                    "bm25_score": 7.871642701106355,
+                    "final_score": 0.4525019013042436
+                }
+            ],
+            "reranker_used": "hybrid"
+        }
+    },
+    {
+        "question": "How should you respond to hydraulic fluid leaks?",
+        "response": {
+            "answer": "BGIA) launched a degree thesis on the subject, the to those in User A's plant owing to further measures, such\nresults of which are available in the form of BIA-Report as monitoring of the fluid temperature; larger fluid reser-\n6/2004, \u201cUntersuchung des Alterungsprozesses von voirs, generally located outside the machine; finer return\nhydraulischen Wegeventilen\u201d [3] (study of the ageing line filters; and flue gas discharge systems for reducing\nprocess of hydraulic directional control valves). Since the impurities in the ambient atmosphere. The study\nvalves that assume control tasks are generally piston-type showed that, in conjunction with the type, quality, and\ndirectional control valves, the MTTF values for \u201chydraulic level of contamination of the hydraulic fluid used and the\nD\ncomponents\u201d",
+            "contexts": [
+                {
+                    "chunk_id": 2434,
+                    "text": "BGIA) launched a degree thesis on the subject, the to those in User A's plant owing to further measures, such\nresults of which are available in the form of BIA-Report as monitoring of the fluid temperature; larger fluid reser-\n6/2004, \u201cUntersuchung des Alterungsprozesses von voirs, generally located outside the machine; finer return\nhydraulischen Wegeventilen\u201d [3] (study of the ageing line filters; and flue gas discharge systems for reducing\nprocess of hydraulic directional control valves). Since the impurities in the ambient atmosphere. The study\nvalves that assume control tasks are generally piston-type showed that, in conjunction with the type, quality, and\ndirectional control valves, the MTTF values for \u201chydraulic level of contamination of the hydraulic fluid used and the\nD\ncomponents\u201d",
+                    "doc_name": "rep0217e.pdf",
+                    "title": "IFA \u2014 Functional safety of machine controls (Application of EN ISO 13849), IFA Report 2/2017e",
+                    "source_url": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/reports-2019/report0217e/rep0217e.pdf",
+                    "vec_score": 0.39174026250839233,
+                    "bm25_score": 14.093340019630203,
+                    "final_score": 0.9999999638719634
+                },
+                {
+                    "chunk_id": 2433,
+                    "text": "Annex D\nthe Performance Level. Experience has shown that the possible to calculate an MTTF for each individual year.\nD\nfailure behaviour of hydraulic valves is characterized The MTTF rose, from 195 years in 2000 to 300 in 2003.\nD\nless by random failures than by failures due to wear. The A significant relationship was observed between valve\ncauses of such failures are primarily systematic, such failures and operating/environmental conditions, since\nas excessive stress, unfavourable conditions of use, or the maintenance measures and operating conditions in\nlack of maintenance. In order for the lifetime of hydraulic User B's facility had been improved continually over the\nvalves to be estimated better, the IFA (at that time still years. In addition, the operating conditions were superior\nthe",
+                    "doc_name": "rep0217e.pdf",
+                    "title": "IFA \u2014 Functional safety of machine controls (Application of EN ISO 13849), IFA Report 2/2017e",
+                    "source_url": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/reports-2019/report0217e/rep0217e.pdf",
+                    "vec_score": 0.3725632429122925,
+                    "bm25_score": 7.740515731677437,
+                    "final_score": 0.6094840029051607
+                },
+                {
+                    "chunk_id": 896,
+                    "text": "g the design phase and\ndocumented in order to support the validation activities.\nPneumatic systems and hydraulic systems\nList of well tried safety principles for pneumatic and hydraulic systems [1]:\n\u2022 Over\u2013dimensioning/safety factor\n\u2022 Safe position\n\u2022 Increased OFF force\n\u2022 Valve closed by load pressure\n\u2022 Positive mechanical action\n\u2022 Multiple parts\n\u2022 Use of well-tried spring\n\u2022 Speed limitation/speed reduction by resistance to\ndefined flow\n\u2022 Force limitation/force reduction\n\u2022 Appropriate range of working conditions\n\u2022 Proper avoidance of contamination of the fluid\n\u2022 Sufficient positive overlapping in piston valves\n\u2022 Limited hysteresis\n[Table B.2 and C.2 in [1]]\nApplicable well-tried safety principles shall be adopted during the design phase and\ndocumented in order to support the validation act",
+                    "doc_name": "FULLTEXT01.pdf",
+                    "title": "FULLTEXT01.pdf",
+                    "source_url": "",
+                    "vec_score": 0.35486844182014465,
+                    "bm25_score": 11.587147510851533,
+                    "final_score": 0.6037520122104776
+                },
+                {
+                    "chunk_id": 3577,
+                    "text": "ipework/hoses\n\u2022 Controlling: valve\n\u2022 Driving: cylinder\nPressure is established in any fluid-related system by pumping the fluid against loads. If the load increases, the\npressure also increases.\nFluid technology is applied in engineering in hydraulics (energy transmission using hydraulic oils) and in pneumat\u2010\nics (energy transmission using compressed air). Oil-based hydraulics required a circuit for the fluid (feed and\nreturn), while in pneumatics the exhaust air is discharged to the environment using acoustic attenuators.\nDesign principles\nThe basic principles for the safe application of fluid technology are described in ISO 4413 (hydraulics) and\nISO 4414 (pneumatics). All parts of a fluid-related system are to be protected against pressures that exceed the\nmaximum operating pressure of a",
+                    "doc_name": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "title": "SICK \u2014 Guide for Safe Machinery: Six Steps to a Safe Machine",
+                    "source_url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "vec_score": 0.34424644708633423,
+                    "bm25_score": 13.431313278119458,
+                    "final_score": 0.5833297404928743
+                },
+                {
+                    "chunk_id": 1822,
+                    "text": "cted in each channel. The safety-related block diagram differs\nby means of the pressure switches 1S3 and 2S1. substantially in this respect from the functional circuit\ndiagram.\n\u2022 Failure of the valves or sticking open of 1V4 or 2V2 is\ndetected by a strong reduction in the return speed Under certain circumstances, the actual implementation\nof the hydraulic cylinders. This situation can also be of the safety function may result in restrictions or recom-\ndetected by the control system by suitable interpre- mendations for the application. For example, the effec-\ntation of the pressure signals (duration of pressure tiveness of fault detection by way of the work process is\ndrop). by definition closely related to the application.\n\u2022 Failure of the valves or sticking open of 1V3 or 2V1 is\ndetected",
+                    "doc_name": "rep0217e.pdf",
+                    "title": "IFA \u2014 Functional safety of machine controls (Application of EN ISO 13849), IFA Report 2/2017e",
+                    "source_url": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/reports-2019/report0217e/rep0217e.pdf",
+                    "vec_score": 0.3678247630596161,
+                    "bm25_score": 4.680294737776084,
+                    "final_score": 0.45855067155947093
+                }
+            ],
+            "reranker_used": "hybrid"
+        }
+    },
+    {
+        "question": "What is the role of Material Safety Data Sheets (MSDS)?",
+        "response": {
+            "answer": "14 Annexes\nAnnex B VDMA Specification 66413\nIn July 2012, VDMA Specification 66413 with the title \"Functional Safety \u2013 Universal data\nformat for safety-related values of components or parts of control systems\" was adopted.\nThis document describes a universal database in XML format serving as a common basis for\nthe exchange of parameters and information between machine manufacturers, equipment\nmanufacturers, test bodies and suppliers of analysis tools in the area of functional safety.\nRepresentatives of manufacturers and users of safety-related control components and the\nIFA were involved in development of this VDMA Specification.\nFurther information (in German) and a list of manufacturers can be found on the VDMA web-\nsite (www.vdma.org) under the search term \"Einheitsblatt 66413\".\nIn Vers",
+            "contexts": [
+                {
+                    "chunk_id": 3439,
+                    "text": "14 Annexes\nAnnex B VDMA Specification 66413\nIn July 2012, VDMA Specification 66413 with the title \"Functional Safety \u2013 Universal data\nformat for safety-related values of components or parts of control systems\" was adopted.\nThis document describes a universal database in XML format serving as a common basis for\nthe exchange of parameters and information between machine manufacturers, equipment\nmanufacturers, test bodies and suppliers of analysis tools in the area of functional safety.\nRepresentatives of manufacturers and users of safety-related control components and the\nIFA were involved in development of this VDMA Specification.\nFurther information (in German) and a list of manufacturers can be found on the VDMA web-\nsite (www.vdma.org) under the search term \"Einheitsblatt 66413\".\nIn Vers",
+                    "doc_name": "sistema_cookbook5_en_2_0.pdf",
+                    "title": "IFA \u2014 SISTEMA Cookbook 5",
+                    "source_url": "https://www.dguv.de/medien/ifa/en/pra/softwa/sistema/kochbuch/sistema_cookbook5_en_2_0.pdf",
+                    "vec_score": 0.5466935038566589,
+                    "bm25_score": 11.917019880622583,
+                    "final_score": 0.7334704269466494
+                },
+                {
+                    "chunk_id": 1548,
+                    "text": "ms is set out in [5] (Figure 4.1). Figure 5.5\nrisk, appropriate safeguards must be provided. Priority shows the part relevant to this subclause of the report.\nis however to be given to efforts by which hazards are\navoided (inherently safe design), or at least reduced to Figure 5.4:\nthe greatest possible extent, by design modifications to Safety functions are executed by SRP/CS\nthe machine. In principle, information for use (including\norganizational measures) is also a possible means of risk\nSensor Logic Actuator\nreduction. Measures of this kind are acceptable however\nonly in exceptional cases in which an economically rea-\nsonable risk reduction by means of technical protective Detection Processing Switching\nmeasures is not possible; in the majority of cases, safegu-\nards will however be re",
+                    "doc_name": "rep0217e.pdf",
+                    "title": "IFA \u2014 Functional safety of machine controls (Application of EN ISO 13849), IFA Report 2/2017e",
+                    "source_url": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/reports-2019/report0217e/rep0217e.pdf",
+                    "vec_score": 0.5453674793243408,
+                    "bm25_score": 11.532607823516006,
+                    "final_score": 0.6935742913074893
+                },
+                {
+                    "chunk_id": 2752,
+                    "text": "MACHINERY SAFEBOOK 5\nSafety Strategy\nThe use of either of the above methods should provide equivalent results. Each\nmethod is intended to take account of the detailed content of the standard to which\nit belongs.\nIn both cases it is extremely important that the guidance provided in the text of the\nstandard is used. The Risk Graph or Table must not be used in isolation or in an\noverly simplistic manner.\nEvaluation\nAfter the protective measure has been chosen and before it is implemented it is\nimportant to repeat the risk estimation. This is a procedure that is often missed. It\nmay be that if we install a protective measure, the machine operator may feel that\nthey are totally and completely protected against the original envisaged risk.\nBecause they no longer have the original awareness of da",
+                    "doc_name": "safebk-rm002_-en-p.pdf",
+                    "title": "Rockwell \u2014 Machinery SafeBook 5",
+                    "source_url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                    "vec_score": 0.5389759540557861,
+                    "bm25_score": 12.583355009420968,
+                    "final_score": 0.6827015818693225
+                },
+                {
+                    "chunk_id": 864,
+                    "text": "16\nFigure 1 The safety function workflow from ISO 13849-1\nFigure 3 in the standard (see Figure 1 above) describes the work flow from identifying\nthat a safety function shall be performed by SRP/CS until the safety function has been\nvalidated. The following text describes which activities and documents that shall be\nperformed and produced for each step.\n1.\nThis is the result of the risk assessment / risk reduction described in Figure 1 in the\nstandard\nDocumentation: List of all safety functions performed by SRP/CS. For more information\nsee Chapter 3 in this report.",
+                    "doc_name": "FULLTEXT01.pdf",
+                    "title": "FULLTEXT01.pdf",
+                    "source_url": "",
+                    "vec_score": 0.5431289672851562,
+                    "bm25_score": 11.75218801966133,
+                    "final_score": 0.680492269330996
+                },
+                {
+                    "chunk_id": 1212,
+                    "text": "the OSHA general industry (e.g.,\n* These activities are servicing and/or mainte- Subpart O) and construction (e.g., Subparts I and\nnance activities. N) standards for specific guarding requirements.\nMany of these standards address preventive meth-\nHazard Analysis ods (such as using barrier guards or two-hand trip-\nYou can help prevent workplace amputations by ping devices) as primary control measures; while\nlooking at your workplace operations and identify- other OSHA standards allow guarding techniques\ning the hazards associated with the use and care of (such as a self-adjustable table saw guard) that\nthe machine. A hazard analysis is a technique that reduce the likelihood of injury. Other less protective\nfocuses on the relationship between the employee, safeguarding methods (such as safe",
+                    "doc_name": "osha3170.pdf",
+                    "title": "OSHA 3170 \u2014 Safeguarding Equipment and Protecting Employees from Amputations",
+                    "source_url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf",
+                    "vec_score": 0.5546454191207886,
+                    "bm25_score": 8.257163684845565,
+                    "final_score": 0.5999999046325684
+                }
+            ],
+            "reranker_used": "hybrid"
+        }
+    },
+    {
+        "question": "When should emergency stop buttons be used on machinery?",
+        "response": {
+            "answer": "p is achieved;\n\u2013 Stop category 2: a controlled stop with power left available to the machine actuators.\nHowever stop category 2 is not usually considered suitable for emergency stops.\nEmergency stops on machinery must be \u201ctrigger action\u201d. This means that their design\nensures that however slowly the button is pressed, or cable pulled, if the normally-closed\ncontact opens the mechanism must latch. This prevents \u201cteasing\u201d, which can cause\ndangerous situations. The converse must also be true, i.e. latching must not take place\nunless the NC contact opens. Emergency stop devices should comply with\nEN 60947-5-5.\nResidual risks\nAfter risks have been reduced as far as possible by design, and then by safeguarding,\nthe risk assessment process should be repeated to check that no new risks have been\nin",
+            "contexts": [
+                {
+                    "chunk_id": 1082,
+                    "text": "p is achieved;\n\u2013 Stop category 2: a controlled stop with power left available to the machine actuators.\nHowever stop category 2 is not usually considered suitable for emergency stops.\nEmergency stops on machinery must be \u201ctrigger action\u201d. This means that their design\nensures that however slowly the button is pressed, or cable pulled, if the normally-closed\ncontact opens the mechanism must latch. This prevents \u201cteasing\u201d, which can cause\ndangerous situations. The converse must also be true, i.e. latching must not take place\nunless the NC contact opens. Emergency stop devices should comply with\nEN 60947-5-5.\nResidual risks\nAfter risks have been reduced as far as possible by design, and then by safeguarding,\nthe risk assessment process should be repeated to check that no new risks have been\nin",
+                    "doc_name": "Machine-Safety-Brochure-Guide.pdf",
+                    "title": "Machine-Safety-Brochure-Guide.pdf",
+                    "source_url": "",
+                    "vec_score": 0.7720593214035034,
+                    "bm25_score": 15.304177163344788,
+                    "final_score": 0.8537458920897969
+                },
+                {
+                    "chunk_id": 3741,
+                    "text": "stop device should be avoided. An exception exists if\nunintentional actuation must be prevented and other measures are not practicable.\nProtective collars must not have any sharp corners or edges or rough surfaces and must not hinder or prevent\noperation with the palm of the hand. This applies from any foreseeable position of the machine operator or other\npersons who must be able to operate it (nearby operator or work stations).\nEmergency stop control switches in portable operator panels\nWhen emergency stop control switches are installed in portable operator panels, measures must be used to avoid\nconfusion between active and non-active emergency stop control switches. This also applies to operator panels\nwhere the emergency stop commands are transmitted via plug connections on the controll",
+                    "doc_name": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "title": "SICK \u2014 Guide for Safe Machinery: Six Steps to a Safe Machine",
+                    "source_url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "vec_score": 0.7162634134292603,
+                    "bm25_score": 18.746573239463867,
+                    "final_score": 0.7124908573637023
+                },
+                {
+                    "chunk_id": 2777,
+                    "text": "MACHINERY SAFEBOOK 5\nSafety related control systems for machinery\nUntil recently, hardwired electro-mechanical components were required for\nemergency stop circuits. Recent changes to standards such as IEC 60204-1 and\nNFPA 79 mean that safety PLCs and other forms of electronic logic meeting the\nrequirements of standards like IEC61508, can be used in the emergency stop circuit.\nEmergency stop devices are considered complimentary safeguarding equipment.\nThey are not considered primary safeguarding devices because they do not prevent\naccess to a hazard nor do they detect access to a hazard. They rely on human\ninteraction.\nFor further information on emergency stop devices, read ISO/EN13850, IEC 60947-\n5-5, NFPA79 and IEC60204-1, AS4024.1, Z432-94.\nEmergency Stop Push Buttons\nWhen a push button",
+                    "doc_name": "safebk-rm002_-en-p.pdf",
+                    "title": "Rockwell \u2014 Machinery SafeBook 5",
+                    "source_url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                    "vec_score": 0.6814485788345337,
+                    "bm25_score": 21.07621842511091,
+                    "final_score": 0.628956371292408
+                },
+                {
+                    "chunk_id": 3732,
+                    "text": "e emergency stop com\u2010\nmand must only be possible after the actuated emer\u2010\ngency stop control switch has been unlocked.\nIf the area of operation of the machine is not fully visi\u2010\nble (see figure 73, page 90), an additional reset must\nbe carried out by one or more reset buttons to avoid the\nrisk of an unexpected start-up. This is to ensure that no\npersons are present in a danger zone or that persons in\nneed of assistance remain undetected.\nFigure 73: Example of an area of operation that is not fully\nvisible\nEmergency stop equipment\nThe emergency stop function is a \u201csafety function\u201d and therefore the requirements of functional safety must be\nmet (ISO 13849-1 or IEC 62061).\nThe required reliability of the safety function (PL or SIL) should correspond to the purpose of the emergency stop\nfuncti",
+                    "doc_name": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "title": "SICK \u2014 Guide for Safe Machinery: Six Steps to a Safe Machine",
+                    "source_url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "vec_score": 0.6697509288787842,
+                    "bm25_score": 18.449403411549056,
+                    "final_score": 0.5144962511039898
+                },
+                {
+                    "chunk_id": 3728,
+                    "text": "Emergency stop and reset control switches at a\nrobot station\nEmergency stop (ISO 13850)\nIn the event of an emergency, not only shall all hazardous machine functions be ceased, but the energy from all\nenergy sources which pose a hazard shall be dissipated. This procedure is known as emergency stopping. Every\nmachine must be equipped with at least one emergency stop function, except:\n\u2022 Machines for which an emergency stop would not reduce the risk\n\u2022 Hand-held and hand-guided machines\nThe emergency stop function must be triggered by a single action of a person. The following fundamental\nrequirements apply to the emergency stop function and its devices in accordance with ISO 13850:\n\u2022 The actuators of emergency stop control switches must be easily accessible.\n\u2022 The emergency stop function must",
+                    "doc_name": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "title": "SICK \u2014 Guide for Safe Machinery: Six Steps to a Safe Machine",
+                    "source_url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "vec_score": 0.6938841342926025,
+                    "bm25_score": 14.26596286066439,
+                    "final_score": 0.507318222009961
+                }
+            ],
+            "reranker_used": "hybrid"
+        }
+    },
+    {
+        "question": "How to safely perform maintenance on rotating equipment?",
+        "response": {
+            "answer": "sms and auxil-\niary parts of the machine.\nHazardous Mechanical Motions\nA wide variety of mechanical motion is potentially\nCutting Action(Figure 4) is the action that cuts\nhazardous. Here are the basic types of hazardous\nmaterial and the associated machine motion may\nmechanical motions:\nbe rotating, reciprocating, or transverse.\nRotating Motion(Figure 1) is circular motion such\nFigure 4 Cutting Action\nas action generated by rotating collars, couplings,\ncams, clutches, flywheels, shaft ends, and spin-\ndles that may grip clothing or otherwise force a\nbody part into a dangerous location. Even smooth\nsurfaced rotating machine parts can be hazardous.\nProjections such as screws or burrs on the rotat-\ning part increase the hazard potential.\nFigure 1 Rotating Motion\nSAFEGUARDING EQUIPMENT AND PROTE",
+            "contexts": [
+                {
+                    "chunk_id": 1207,
+                    "text": "sms and auxil-\niary parts of the machine.\nHazardous Mechanical Motions\nA wide variety of mechanical motion is potentially\nCutting Action(Figure 4) is the action that cuts\nhazardous. Here are the basic types of hazardous\nmaterial and the associated machine motion may\nmechanical motions:\nbe rotating, reciprocating, or transverse.\nRotating Motion(Figure 1) is circular motion such\nFigure 4 Cutting Action\nas action generated by rotating collars, couplings,\ncams, clutches, flywheels, shaft ends, and spin-\ndles that may grip clothing or otherwise force a\nbody part into a dangerous location. Even smooth\nsurfaced rotating machine parts can be hazardous.\nProjections such as screws or burrs on the rotat-\ning part increase the hazard potential.\nFigure 1 Rotating Motion\nSAFEGUARDING EQUIPMENT AND PROTE",
+                    "doc_name": "osha3170.pdf",
+                    "title": "OSHA 3170 \u2014 Safeguarding Equipment and Protecting Employees from Amputations",
+                    "source_url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf",
+                    "vec_score": 0.5676143765449524,
+                    "bm25_score": 9.53761593345595,
+                    "final_score": 0.9999999638178212
+                },
+                {
+                    "chunk_id": 2740,
+                    "text": "MACHINERY SAFEBOOK 5\nSafety Strategy\nOne of the most involved and complete interactions between people and\nmachinery is during maintenance, troubleshooting and repair. For routine and minor\ninterventions it may be possible to use safety related system based protective\nmeasures (see later description) to ensure safety. But across all regulations it is\nabsolutely clear that, for any type of intervention such as signifi cant maintenance,\nrepair, disassembly or work on power circuits, there should the both the provision\nand use of equipment that ensures the isolation and dissipation of energy\n(sometimes including gravitational force) at the machine. In this way the risk of\nunexpected start-up and exposure to energy sources can be eliminated. This is\ncovered in many different regulations and st",
+                    "doc_name": "safebk-rm002_-en-p.pdf",
+                    "title": "Rockwell \u2014 Machinery SafeBook 5",
+                    "source_url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                    "vec_score": 0.5041812658309937,
+                    "bm25_score": 3.751406023707494,
+                    "final_score": 0.4756543481574497
+                },
+                {
+                    "chunk_id": 3722,
+                    "text": "should be used for\nthis purpose.\nElectro-sensitive safety inductive position switches\nare particularly suitable for this task (see table 21,\npage 63). They monitor a certain part of a robot\u2019s axis\nor a moving part of a machine for presence without the\nneed for a specific actuator, without wear, and with a\nhigh enclosure rating.\nFigure 70: Safe position monitoring for a lift on an automobile\nproduction line\nMonitoring of rotation, speed, overrun\nEncoders or travel measurement systems are used to\ndetect and evaluate rotation, speed, and overrun.\nThe signals from encoders can be used in automated\nguided vehicles to adapt the protective field size of\nsafety laser scanners to the speed at which the vehi\u2010\ncles are moving.\nSafe standstill or rotation evaluation modules monitor\nthe movement of dri",
+                    "doc_name": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "title": "SICK \u2014 Guide for Safe Machinery: Six Steps to a Safe Machine",
+                    "source_url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "vec_score": 0.48681560158729553,
+                    "bm25_score": 3.6725207437558804,
+                    "final_score": 0.3952332281626084
+                },
+                {
+                    "chunk_id": 4103,
+                    "text": "A practical guide to machinery safety\nwww.tuv-sud.co.uk/machinery\nmachinery@tuv-sud.co.uk\nBG/ne/0.1/PDI/GKM-KU\n| dtL\nDUS\nVUT\n\u00a9\n4102\nT\u00dcV S\u00dcD Product Service\nBelasis Business Centre, Coxwold Way\nBillingham, Cleveland\nTS23 4EA, United Kingdom\nTelephone: +44 (0)1642 345637\nmachinery@tuv-sud.co.uk\nwww.tuv-sud.co.uk/machinery",
+                    "doc_name": "uk-mkg-practical-guide-en-GB-A4.pdf",
+                    "title": "uk-mkg-practical-guide-en-GB-A4.pdf",
+                    "source_url": "",
+                    "vec_score": 0.4967259168624878,
+                    "bm25_score": 2.566478317184472,
+                    "final_score": 0.3928537247151876
+                },
+                {
+                    "chunk_id": 2735,
+                    "text": "MACHINERY SAFEBOOK 5\nSafety Strategy\nFor example as follows:\n\u2022 Death, losing an eye or arm\n\u2022 Permanent effect, e.g. losing fi ngers.\n\u2022 Reversible effect and requires medical attention\n\u2022 Reversible effect and requires fi rst aid\nFrequency of exposure\nFrequency of exposure answers the question of how often is the operator or the\nmaintenance person exposed to the hazard. The frequency of exposure to hazard\ncan be classifi ed according to the factors given in the chosen methodology.\nFor example as follows:\n\u2022 Greater than once per hour\n\u2022 Between once per hour and once per day\n\u2022 Between once per day and once per two weeks\n\u2022 Between once per two weeks and once per year\n\u2022 Lower than once per year\nProbability of injury\nYou should assume that the operator is exposed to the hazardous motion or\nproces",
+                    "doc_name": "safebk-rm002_-en-p.pdf",
+                    "title": "Rockwell \u2014 Machinery SafeBook 5",
+                    "source_url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                    "vec_score": 0.434749960899353,
+                    "bm25_score": 8.86456913580912,
+                    "final_score": 0.3817845944724957
+                }
+            ],
+            "reranker_used": "hybrid"
+        }
+    }
+]
